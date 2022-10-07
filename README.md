@@ -3,6 +3,7 @@ VukTheBeast/VukTheBeast is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 - 👋 Hi, I'm Vuk Manić 
+- 👩‍💻 Full Stack .Net Developer
 - 👀 Interested in creating 💎 well crafted | 📈 scalable | 🤹‍♀️ testable | 🔌 pluggable software solution.
  
  ⌛ 8+ years of expirinace:
