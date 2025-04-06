@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 - ✅ TDD (UT | Integration | Load | E2E)
 - ✅ FrontEnd (HTML | CSS | JavaScript | jQuery | React | Angular | KnockoutJs)
 - ✅ Git | TFS
-- 
+
 👀 General interests:
 -------------------------------
 - ✅ OO Design Principles
